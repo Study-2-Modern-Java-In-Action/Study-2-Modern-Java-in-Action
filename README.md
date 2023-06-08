@@ -32,7 +32,7 @@
 | 민아영 | [coalong](https://github.com/coalong) |
 | 박지호 | [crupy](https://github.com/crupy) |
 | 안길웅 | [ahngilwoong](https://github.com/ahngilwoong)
-| 이소현 | [isohyeon](https://github.com/isohyeon) |
+| 이소현 | [isohyeon](https://github.com/sohyeon-lee) |
 | 이제훈 | [CoRock](https://github.com/corock) |
 | 장영주 | [Youngju-Jang](https://github.com/Youngju-Jang) |
 | 조재철 | [JoisFe](https://github.com/JoisFe) |
